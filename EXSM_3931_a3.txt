@@ -1,0 +1,21 @@
+Pseudocode
+
+Customer Perspective
+
+Approach machine for snack.
+If machine has favorite snack in stock, check price, check my money.
+If I have enough money, put money in machine, push button, receive snack.
+If machine doesn't have favorite snack, choose next favorite.
+Check price, check my money, have enough, push button, receive snack.
+If I don't have enough money, choose next cheapest.
+Have enough, push button, receive snack.
+
+Owner Perspective
+
+Open machine with key.
+Empty out coin storage.
+Check stock of product.
+If less than half, fill.
+If more than half, move on to next product.
+If everything is above half, close machine.
+Go home.
